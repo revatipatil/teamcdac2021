@@ -1,0 +1,2 @@
+this is file in folder dir1
+this is second line..
